@@ -1,2 +1,1 @@
-# QUIZ-APP
-Created with CodeSandbox
+# Trivia-Game
